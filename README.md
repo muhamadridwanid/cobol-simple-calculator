@@ -8,4 +8,4 @@
 **Build And Run:** 
 - set_env.cmd
 - cobc -x filename.cob
-- hello
+- filename
